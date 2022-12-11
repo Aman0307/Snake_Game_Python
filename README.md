@@ -1,7 +1,7 @@
 # Snake_Game_Python
 
 
-Building snake and apple game in pygame and python
+Snake and apple game in bulit using pygame and python.
 
 Snake and apple is a  game where when snake eats an apple it gets longer and your score increases. 
 
