@@ -7,7 +7,7 @@ Python 3<br />
 Pygame
 
 ## Running the game
-Clone the repository: ```git clone https://github.com/USERNAME/REPO_NAME.git``` <br />
+Clone the repository: ```git clone https://github.com/Aman0307/Snake_Game_Python.git``` <br />
 Navigate to the project directory: ```cd REPO_NAME``` <br />
 Install the required dependencies: ```pip install -r requirements.txt``` <br />
 Run the game: ```python snake.py``` <br />
